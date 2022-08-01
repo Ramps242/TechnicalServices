@@ -1,2 +1,0 @@
-# TechnicalServices
-Web Application
